@@ -1,0 +1,1 @@
+from capitalize import capitalize
